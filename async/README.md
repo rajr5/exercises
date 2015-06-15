@@ -1,7 +1,7 @@
 Here's the basic usage of the file that you'll be creating:
 
 ```js
-var async = require('./') // <- this is the file you make;
+var async = require('./async-solution.js') // <- this is the file you make;
 
 var getUser = function(userId) {
   return function(cb) {
